@@ -97,8 +97,8 @@ async def gib_repo_callback(_, callback_query):
     group_style = random.choice(STYLES)
     await callback_query.edit_message_media(
         media=InputMediaVideo(
-            "https://telegra.ph/file/b1367262cdfbcd0b2af07.mp4",
-            caption="<emoji id=6197448030703067876>😎</emoji> **ʟᴜɴᴅ ʟᴇʟᴇ ᴍᴇʀᴀ ʀᴇᴘᴏ ᴋʏᴀ ᴋᴀʀᴇɢᴀ, ʟᴇɢᴀ ᴋʏᴀ ʙʜᴏsᴀᴅɪᴋᴇ**",
+            "https://i.ibb.co/7tD4fMtG/photo-2026-07-14-12-10-21.jpg",
+            caption="<emoji id=6197448030703067876>😎</emoji> **dm kare de @GHOSTRIDERFIRE0**",
             has_spoiler=True
         ),
         reply_markup=InlineKeyboardMarkup(
